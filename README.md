@@ -27,10 +27,14 @@ This project is a Python-based Amazon web scraper that extracts product informat
 
 amazon-scraper/
 ├── scraper.py # Main scraping script
+
 ├── Amazon.csv # Output CSV file (auto-generated)
+
 ├── Amazon.xlsx # Output Excel file (auto-generated)
+
 ├── README.md # Project documentation
-└── .gitignore # Files to ignore in Git
+
+├── .gitignore # Files to ignore in Git
 
 
 
